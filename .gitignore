@@ -1,0 +1,26 @@
+# Ignore system and user directories
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+Desktop.ini
+NTUSER.DAT*
+npm-cache/
+platform-tools/
+
+# Ignore Node.js and environment files
+node_modules/
+dist/
+.env
+.vercel
